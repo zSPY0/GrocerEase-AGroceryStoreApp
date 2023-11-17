@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "29222749656",
+    "project_id": "grocerease-eb141",
+    "storage_bucket": "grocerease-eb141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29222749656:android:5fa5cfc99f080b6ebd1ead",
+        "android_client_info": {
+          "package_name": "com.grocerease.grocerease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29222749656-558pnqga3nc200egsmsh0c63msml2a9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grocerease.grocerease",
+            "certificate_hash": "3a492cb88da956655b02da31cd7253827b9ff81a"
+          }
+        },
+        {
+          "client_id": "29222749656-m1h62jjhs85gcfv81ekb0bd55u82kdp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCypPO2q14csHKS1hKbeVuLq9dXZbi1JZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29222749656-m1h62jjhs85gcfv81ekb0bd55u82kdp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
